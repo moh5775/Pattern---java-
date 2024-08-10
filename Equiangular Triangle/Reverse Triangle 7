@@ -1,0 +1,24 @@
+
+import java.util.Scanner;
+
+public class TriRev7 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int n, i, j;
+        System.out.print("n: ");
+        n = input.nextInt();
+        int pos = 1;
+        for (i = 1; i <= n; i++) {
+            for (j = 1; j <= n - i; j++) {
+                System.out.print("  ");
+            }
+
+            for (j = i; j >= 1; j--) {
+
+                System.out.print(pos + " ");
+                pos = pos + 2;
+            }
+            System.out.println();
+        }
+    }
+}
