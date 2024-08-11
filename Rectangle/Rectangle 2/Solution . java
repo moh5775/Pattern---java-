@@ -1,0 +1,18 @@
+
+import java.util.Scanner;
+
+public class Pattern2 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int n, i, j, row, col;
+        System.out.print("n: ");
+        n = input.nextInt();
+        row = col = n;
+        for (i = row; i >= 1; i--) {
+            for (j = 1; j <= col; j++) {
+                System.out.print(i + " ");
+            }
+            System.out.println();
+        }
+    }
+}
