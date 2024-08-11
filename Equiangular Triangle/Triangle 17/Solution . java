@@ -1,0 +1,20 @@
+
+import java.util.Scanner;
+
+public class Triangle17 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int n, i, j;
+        System.out.print("n: ");
+        n = input.nextInt();
+        int pos = n * (n + 1) / 2;
+        for (i = 1; i <= n; i++) {
+            for (j = 1; j <= n - i + 1; j++) {
+
+                System.out.print(pos + "   ");
+                pos--;
+            }
+            System.out.println();
+        }
+    }
+}
