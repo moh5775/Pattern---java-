@@ -1,0 +1,21 @@
+
+import java.util.Scanner;
+
+public class Pattern4 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int n, i, j, row, col;
+        System.out.print("n: ");
+        n = input.nextInt();
+        row = col = n;
+        int pos = 1;
+        for (i = 1; i <= row; i++) {
+            for (j = 1; j <= col; j++) {
+                System.out.print(pos + " ");
+                pos = pos + 2;
+
+            }
+            System.out.println();
+        }
+    }
+}
