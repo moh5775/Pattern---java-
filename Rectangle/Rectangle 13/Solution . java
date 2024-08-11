@@ -1,0 +1,27 @@
+
+import java.util.Scanner;
+
+public class Pattern12 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int n, i, j, row, col;
+        System.out.print("n: ");
+        n = input.nextInt();
+        row = col = n;
+
+        for (i = 1; i <= row * 2 - 1; i++) {
+            if (i % 2 != 0) {
+                int x = i;
+
+                for (j = 1; j <= col; j++) {
+
+                    System.out.print(x + " ");
+
+                    x = x + 2;
+
+                }
+                System.out.println();
+            }
+        }
+    }
+}
