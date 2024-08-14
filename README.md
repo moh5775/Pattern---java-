@@ -396,75 +396,76 @@
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 1/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%201/Solution%20.%20java))
 
 ### Pattern 2:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 2/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%202/Solution%20.%20java))
 
 ### Pattern 3:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 3/Solution , java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%203/Solution%20%2C%20java))
 
 ### Pattern 4:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 4/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%204/Solution%20.%20java))
 
 ### Pattern 5:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 5/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%205/Solution%20.%20java))
 
 ### Pattern 6:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 6/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%206/Solution%20.%20java))
 
 ### Pattern 7:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 7/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%207/Solution%20.%20java))
 
 ### Pattern 8:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 8/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%208/Solution%20.%20java))
 
 ### Pattern 9:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 9/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%209/Solution%20.%20java))
 
 ### Pattern 10:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 10/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%2010/Solution%20.%20java))
 
 ### Pattern 11:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 11/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%2011/Solution%20.%20java))
 
 ### Pattern 12:
 #### Output:
 
 #### Code Link:
-
+([Star Pattern/Pattern 12/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%2012/Solution%20.%20java))
 
 ### Pattern 13:
 #### Output:
 
 #### Code Link:
+([Star Pattern/Pattern 13/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%2013/Solution%20.%20java))
