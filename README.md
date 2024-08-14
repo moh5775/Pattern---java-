@@ -289,92 +289,90 @@
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 1/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%201/Solution%20.%20java))
 
 ### Rectangle 2:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 2/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%202/Solution%20.%20java))
 
 ### Rectangle 3:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 3/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%203/Solution%20.%20java))
 
 ### Rectangle 4:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 4/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%204/Solution%20.%20java))
 
 ### Rectangle 5:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 5/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%205/Solution%20.%20java))
 
 ### Rectangle 6:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 6/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%206/Solution%20.%20java))
 
 ### Rectangle 7:
 #### Output:
 
 #### Code Link:
+([Rectangle/Rectangle 7/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%207/Solution%20.%20java))
 
 ### Rectangle 8:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 8/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%208/Solution%20.%20java))
 
 ### Rectangle 9:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 9/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%209/Solution%20.%20java))
 
 ### Rectangle 10:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 10/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%2010/Solution%20.%20java))
 
 ### Rectangle 11:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 12/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%2012/Solution%20.%20java))
 
 ### Rectangle 12:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 13/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%2013/Solution%20.%20java))
 
 ### Rectangle 13:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Rectangle 14/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%2014/Solution%20.%20java))
 
 ### Rectangle 14:
 #### Output:
 
 #### Code Link:
-
+([Rectangle/Alphabet Number Mixed/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Alphabet%20Number%20Mixed/Solution%20.%20java))
 
 ### Rectangle 15:
 #### Output:
 
 #### Code Link:
+([Rectangle/Star Number Mixed/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Star%20Number%20Mixed/Solution%20.%20java))
 
 
-### Rectangle 16:
-#### Output:
-
-#### Code Link:
