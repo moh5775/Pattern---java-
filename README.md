@@ -287,90 +287,105 @@
 ## Rectangle
 ### Rectangle 1:
 #### Output:
+![1](https://github.com/user-attachments/assets/297feaf6-d194-4856-94f9-15e74b3e93fb)
 
 #### Code Link:
 ([Rectangle/Rectangle 1/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%201/Solution%20.%20java))
 
 ### Rectangle 2:
 #### Output:
+![2](https://github.com/user-attachments/assets/fa3838af-157c-4131-bd2c-28c14bc24415)
 
 #### Code Link:
 ([Rectangle/Rectangle 2/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%202/Solution%20.%20java))
 
 ### Rectangle 3:
 #### Output:
+![3](https://github.com/user-attachments/assets/a248e3e2-e237-4992-894b-b43d3072d3da)
 
 #### Code Link:
 ([Rectangle/Rectangle 3/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%203/Solution%20.%20java))
 
 ### Rectangle 4:
 #### Output:
+![4](https://github.com/user-attachments/assets/b17e97ea-50a0-42ba-b4ef-f5365406dc95)
 
 #### Code Link:
 ([Rectangle/Rectangle 4/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%204/Solution%20.%20java))
 
 ### Rectangle 5:
 #### Output:
+![5](https://github.com/user-attachments/assets/6471466d-ae68-46c1-b463-f89b11e6dc9c)
 
 #### Code Link:
 ([Rectangle/Rectangle 5/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%205/Solution%20.%20java))
 
 ### Rectangle 6:
 #### Output:
+![6](https://github.com/user-attachments/assets/c78d961e-d60e-4a9c-be1e-ea141db63764)
 
 #### Code Link:
 ([Rectangle/Rectangle 6/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%206/Solution%20.%20java))
 
 ### Rectangle 7:
 #### Output:
+![7](https://github.com/user-attachments/assets/f6e36628-daf4-4693-a003-5cf2a31599b6)
 
 #### Code Link:
 ([Rectangle/Rectangle 7/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%207/Solution%20.%20java))
 
 ### Rectangle 8:
 #### Output:
+![8](https://github.com/user-attachments/assets/9bb3817b-5083-4559-ab7b-cef17351517b)
 
 #### Code Link:
 ([Rectangle/Rectangle 8/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%208/Solution%20.%20java))
 
 ### Rectangle 9:
 #### Output:
+![9](https://github.com/user-attachments/assets/01671d83-1c6a-4dd4-8471-b8383dea0990)
 
 #### Code Link:
 ([Rectangle/Rectangle 9/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%209/Solution%20.%20java))
 
 ### Rectangle 10:
 #### Output:
+![10](https://github.com/user-attachments/assets/713dc860-9046-4726-804b-06f7d7429307)
 
 #### Code Link:
 ([Rectangle/Rectangle 10/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%2010/Solution%20.%20java))
 
 ### Rectangle 11:
 #### Output:
+![12](https://github.com/user-attachments/assets/e9844e23-16c5-4ec9-93a4-216635146289)
 
 #### Code Link:
 ([Rectangle/Rectangle 12/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%2012/Solution%20.%20java))
 
 ### Rectangle 12:
 #### Output:
+![13](https://github.com/user-attachments/assets/6b13efc5-ab4c-44bd-8a6c-612d890efef5)
 
 #### Code Link:
 ([Rectangle/Rectangle 13/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%2013/Solution%20.%20java))
 
 ### Rectangle 13:
 #### Output:
+![14](https://github.com/user-attachments/assets/c0c1e4cb-8876-4781-b17b-67ae8ea90bf7)
 
 #### Code Link:
 ([Rectangle/Rectangle 14/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Rectangle%2014/Solution%20.%20java))
 
 ### Rectangle 14:
 #### Output:
+![15](https://github.com/user-attachments/assets/218810d9-7f18-4ba5-945a-7f7a94013221)
 
 #### Code Link:
 ([Rectangle/Alphabet Number Mixed/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Alphabet%20Number%20Mixed/Solution%20.%20java))
 
 ### Rectangle 15:
 #### Output:
+![16](https://github.com/user-attachments/assets/54e00ef7-0eb5-40c2-988a-ec692530c167)
 
 #### Code Link:
 ([Rectangle/Star Number Mixed/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Star%20Number%20Mixed/Solution%20.%20java))
