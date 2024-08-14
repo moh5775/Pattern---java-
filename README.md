@@ -238,3 +238,42 @@
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 17/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2017/Solution%20.%20java))
+
+
+
+## Full Triangle
+### Triangle 1:
+#### Output:
+
+#### Code Link:
+([Full Triangle/Triangle 1/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%201/Solution%20.%20java))
+
+### Triangle 2:
+#### Output:
+
+#### Code Link:
+([Full Triangle/Triangle 2/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%202/Solution%20.%20java))
+
+### Triangle 3:
+#### Output:
+
+#### Code Link:
+([Full Triangle/Triangle 3/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%203/Solution%20.%20java))
+
+### Triangle 4:
+#### Output:
+
+#### Code Link:
+([Full Triangle/Triangle 4/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%204/Solution%20.%20java))
+
+### Triangle 5:
+#### Output:
+
+#### Code Link:
+([Full Triangle/Triangle 5/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%205/Solution%20.%20java))
+
+### Triangle 6:
+#### Output:
+
+#### Code Link:
+([Full Triangle/Triangle 6/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%206/Solution%20.%20java))
