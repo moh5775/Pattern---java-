@@ -283,3 +283,98 @@
 
 #### Code Link:
 ([Full Triangle/Triangle 6/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%206/Solution%20.%20java))
+
+## Rectangle
+### Rectangle 1:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 2:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 3:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 4:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 5:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 6:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 7:
+#### Output:
+
+#### Code Link:
+
+### Rectangle 8:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 9:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 10:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 11:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 12:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 13:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 14:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 15:
+#### Output:
+
+#### Code Link:
+
+
+### Rectangle 16:
+#### Output:
+
+#### Code Link:
