@@ -244,36 +244,42 @@
 ## Full Triangle
 ### Triangle 1:
 #### Output:
+![1](https://github.com/user-attachments/assets/331098dd-c65b-4aa5-b4f7-2d53235aac98)
 
 #### Code Link:
 ([Full Triangle/Triangle 1/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%201/Solution%20.%20java))
 
 ### Triangle 2:
 #### Output:
+![2](https://github.com/user-attachments/assets/7020b90d-2cfc-4c6a-8022-2fe025e4e342)
 
 #### Code Link:
 ([Full Triangle/Triangle 2/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%202/Solution%20.%20java))
 
 ### Triangle 3:
 #### Output:
+![3](https://github.com/user-attachments/assets/a1197512-2cc5-41e8-9f2a-dac5b06d6587)
 
 #### Code Link:
 ([Full Triangle/Triangle 3/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%203/Solution%20.%20java))
 
 ### Triangle 4:
 #### Output:
+![4](https://github.com/user-attachments/assets/af1f27f1-7143-40bf-9206-edfa1563f3af)
 
 #### Code Link:
 ([Full Triangle/Triangle 4/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%204/Solution%20.%20java))
 
 ### Triangle 5:
 #### Output:
+![5](https://github.com/user-attachments/assets/0247a7c1-1a62-49eb-9ebb-20514ef61c7e)
 
 #### Code Link:
 ([Full Triangle/Triangle 5/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%205/Solution%20.%20java))
 
 ### Triangle 6:
 #### Output:
+![6](https://github.com/user-attachments/assets/2783b535-d2a7-4f1f-9c7a-e7ec0ae0f4d2)
 
 #### Code Link:
 ([Full Triangle/Triangle 6/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Full%20Triangle/Triangle%206/Solution%20.%20java))
