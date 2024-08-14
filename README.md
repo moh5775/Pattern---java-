@@ -391,3 +391,80 @@
 ([Rectangle/Star Number Mixed/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Rectangle/Star%20Number%20Mixed/Solution%20.%20java))
 
 
+## Star Pattern
+### Pattern 1:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 2:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 3:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 4:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 5:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 6:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 7:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 8:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 9:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 10:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 11:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 12:
+#### Output:
+
+#### Code Link:
+
+
+### Pattern 13:
+#### Output:
+
+#### Code Link:
