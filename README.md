@@ -1,6 +1,7 @@
 ## Equiangular Triangle
 ### Reverse Triangle 1:
 #### Output:
+![Rev 1](https://github.com/user-attachments/assets/7d7c4cf5-4f79-4c77-bcda-c85a5fd0d286)
 
 #### Code Link: [(Equiangular Triangle/Reverse Triangle 1/Solution . java)](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Reverse%20Triangle%201/Solution%20.%20java)
 
