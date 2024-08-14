@@ -394,78 +394,91 @@
 ## Star Pattern
 ### Pattern 1:
 #### Output:
+![1](https://github.com/user-attachments/assets/38c70e1f-a920-4b66-a533-50cdc0902fbd)
 
 #### Code Link:
 ([Star Pattern/Pattern 1/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%201/Solution%20.%20java))
 
 ### Pattern 2:
 #### Output:
+![2](https://github.com/user-attachments/assets/1c7d6d70-bea4-4e30-81aa-7635c6dca7ef)
 
 #### Code Link:
 ([Star Pattern/Pattern 2/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%202/Solution%20.%20java))
 
 ### Pattern 3:
 #### Output:
+![3](https://github.com/user-attachments/assets/cee13c03-eef7-4666-9a29-ad392cff16b7)
 
 #### Code Link:
 ([Star Pattern/Pattern 3/Solution , java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%203/Solution%20%2C%20java))
 
 ### Pattern 4:
 #### Output:
+![4](https://github.com/user-attachments/assets/0bd281a8-4cbc-4f01-a87b-651a9eae66d9)
 
 #### Code Link:
 ([Star Pattern/Pattern 4/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%204/Solution%20.%20java))
 
 ### Pattern 5:
 #### Output:
+![5](https://github.com/user-attachments/assets/06329ed2-a694-408a-87d4-3328db0c6a9c)
 
 #### Code Link:
 ([Star Pattern/Pattern 5/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%205/Solution%20.%20java))
 
 ### Pattern 6:
 #### Output:
+![6](https://github.com/user-attachments/assets/2cd78f9f-8a65-4bb6-94f8-90cafb3c6204)
 
 #### Code Link:
 ([Star Pattern/Pattern 6/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%206/Solution%20.%20java))
 
 ### Pattern 7:
 #### Output:
+![7](https://github.com/user-attachments/assets/be8176f6-2488-4a5d-bbb2-7b2111e6d45e)
 
 #### Code Link:
 ([Star Pattern/Pattern 7/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%207/Solution%20.%20java))
 
 ### Pattern 8:
 #### Output:
+![8](https://github.com/user-attachments/assets/645f0c38-9acd-4bed-8081-929ce935824c)
 
 #### Code Link:
 ([Star Pattern/Pattern 8/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%208/Solution%20.%20java))
 
 ### Pattern 9:
 #### Output:
+![9](https://github.com/user-attachments/assets/640f7428-3edb-48da-8897-d19c014221b9)
 
 #### Code Link:
 ([Star Pattern/Pattern 9/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%209/Solution%20.%20java))
 
 ### Pattern 10:
 #### Output:
+![10](https://github.com/user-attachments/assets/4bb0e5d8-e45c-4c59-b687-ee471c20c0d1)
 
 #### Code Link:
 ([Star Pattern/Pattern 10/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%2010/Solution%20.%20java))
 
 ### Pattern 11:
 #### Output:
+![11](https://github.com/user-attachments/assets/7f49753d-f658-40ea-b8bc-af7bd48babf6)
 
 #### Code Link:
 ([Star Pattern/Pattern 11/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%2011/Solution%20.%20java))
 
 ### Pattern 12:
 #### Output:
+![12](https://github.com/user-attachments/assets/623d523e-4fc1-443d-a33e-bf748921a033)
 
 #### Code Link:
 ([Star Pattern/Pattern 12/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%2012/Solution%20.%20java))
 
 ### Pattern 13:
 #### Output:
+![13](https://github.com/user-attachments/assets/7c24704e-75f7-4473-93e6-bed38b4609da)
 
 #### Code Link:
 ([Star Pattern/Pattern 13/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Star%20Pattern/Pattern%2013/Solution%20.%20java))
