@@ -106,6 +106,7 @@
 
 ### Triangle 16:
 #### Output:
+![1](https://github.com/user-attachments/assets/4af39656-4194-4c62-adc7-b9dbf85f155b)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 1/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%201/Solution%20.%20java))
@@ -113,6 +114,7 @@
 
 ### Triangle 17:
 #### Output:
+![2](https://github.com/user-attachments/assets/6a8c27bb-cbcb-49f9-827e-93c30dc0e976)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 2 /Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%202%20/Solution%20.%20java))
@@ -120,6 +122,7 @@
 
 ### Triangle 18:
 #### Output:
+![18](https://github.com/user-attachments/assets/72bdc897-6f6c-4ec2-a740-8080c42a73a0)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 3/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%203/Solution%20.%20java))
@@ -127,6 +130,7 @@
 
 ### Triangle 19:
 #### Output:
+![19](https://github.com/user-attachments/assets/2190a1d0-5851-4b9d-b6b9-ba3231d46b5e)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 4/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%204/Solution%20.%20java))
@@ -134,6 +138,7 @@
 
 ### Triangle 20:
 #### Output:
+![20](https://github.com/user-attachments/assets/1fe0431a-4972-4f25-a519-48241deec12d)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 5/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%205/Solution%20.%20java))
@@ -141,6 +146,7 @@
 
 ### Triangle 21:
 #### Output:
+![21](https://github.com/user-attachments/assets/fb4f2a70-0f1b-4af9-9598-fcb14830331f)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 6/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%206/Solution%20.%20java))
@@ -148,6 +154,7 @@
 
 ### Triangle 22:
 #### Output:
+![22](https://github.com/user-attachments/assets/cc7221b3-f361-4306-b44c-038209cef82d)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 7/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%207/Solution%20.%20java))
@@ -155,6 +162,7 @@
 
 ### Triangle 23:
 #### Output:
+![23](https://github.com/user-attachments/assets/7835279a-4c79-451b-bbd8-c085e9a419b1)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 8/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%208/Solution%20.%20java))
@@ -162,6 +170,7 @@
 
 ### Triangle 24:
 #### Output:
+![24](https://github.com/user-attachments/assets/e9fe6299-d13d-4534-a1d3-a1ec652216fa)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 9/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%209/Solution%20.%20java))
@@ -169,6 +178,7 @@
 
 ### Triangle 25:
 #### Output:
+![25](https://github.com/user-attachments/assets/8bd51da1-3225-4e38-9f0e-41b2c9b90e45)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 10/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2010/Solution%20.%20java))
@@ -176,6 +186,7 @@
 
 ### Triangle 26:
 #### Output:
+![26](https://github.com/user-attachments/assets/156c1ba6-9734-41ba-b184-4c4e63cd2c46)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 11/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2011/Solution%20.%20java))
@@ -183,6 +194,7 @@
 
 ### Triangle 27:
 #### Output:
+![27](https://github.com/user-attachments/assets/069e38cd-9ed2-4c82-8e2f-73bf65665af4)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 12/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2012/Solution%20.%20java))
@@ -190,6 +202,7 @@
 
 ### Triangle 28:
 #### Output:
+![28](https://github.com/user-attachments/assets/54b6a0f9-1cf0-41b4-a1e9-d94b1df40f9b)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 13/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2013/Solution%20.%20java))
@@ -197,6 +210,7 @@
 
 ### Triangle 29:
 #### Output:
+![29](https://github.com/user-attachments/assets/a22cbd7e-4053-4c74-b087-9a144a13cbe9)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 14/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2014/Solution%20.%20java))
@@ -204,6 +218,7 @@
 
 ### Triangle 30:
 #### Output:
+![30](https://github.com/user-attachments/assets/123f418a-bc8b-4d14-a249-55a1916135ae)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 15/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2015/Solution%20.%20java))
@@ -211,6 +226,7 @@
 
 ### Triangle 31:
 #### Output:
+![31](https://github.com/user-attachments/assets/58a1ed5b-ea97-47b1-8ddd-ee8ac0d5ea97)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 16/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2016/Solution%20.%20java))
@@ -218,6 +234,7 @@
 
 ### Triangle 32:
 #### Output:
+![32](https://github.com/user-attachments/assets/b3bd29f1-1c35-4e5c-bce1-5bcdb317988d)
 
 #### Code Link: 
 ([Equiangular Triangle/Triangle 17/Solution . java](https://github.com/moh5775/Pattern---java-/blob/main/Equiangular%20Triangle/Triangle%2017/Solution%20.%20java))
