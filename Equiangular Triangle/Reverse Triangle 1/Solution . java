@@ -22,9 +22,6 @@ public class TriRev1 {
 
 
 
-
-
-
 // python 
 
 n = int(input("n: "))
